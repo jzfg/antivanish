@@ -1,0 +1,8 @@
+[{
+  "modid": "antivanishmod",
+  "name": "AntiVanish",
+  "description": "Detecta vanish por TAB y particulas y avisa cuando un staff te esta viendo.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "authorList": []
+}]
